@@ -1,0 +1,97 @@
+body { 
+	background: #CCCCCC;
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+h1,h2,h3,h4,h5,h5 {
+	font-weight: 700;	
+}
+h1 {
+	margin: 0.3em 0 0.5em;
+}
+
+
+h1 { font-size: 26px; }
+h2 { font-size: 22px; }
+h3 { font-size: 20px; }
+h4 { font-size: 20px; }
+h5 { font-size: 18px; }
+h6 { font-size: 15px; }
+
+
+#wrapper {
+	background: #ffffff;
+	padding: 15px;
+	margin: 20px auto ;
+	width: 950px;
+	box-shadow: 2px 4px 10px #333333;
+	border-radius: 10px;
+}
+#header {
+	background: #C51417;
+	margin: 0 0 15px;
+	overflow: hidden;
+	padding: 10px;
+}
+.logo img {
+	float: left;
+	vertical-align: bottom;
+}
+.paragraf p {
+	float: right;
+	color: #FFFFFF;
+	margin: 0 10px;
+	font-style: italic;
+	font-size: 20px;
+}
+
+#navi {
+	background: #333333;
+	margin: 0 0 15px;
+	padding: 10px;
+}
+#navi p {
+	margin: 0;
+	color: #FFFFFF;
+	text-align: center;
+}
+#main {
+	width: 660px;
+	margin: 0 10px 15px 0;
+	float: left;
+}
+#sidebar {
+	width: 280px;
+	margin: 0 0 15px;
+	float: right;
+}
+#sidebar h2 {
+	background: #BBBBBB;
+	color: #FFFFFF;
+	padding: 10px;
+	margin: 0;
+}
+#sidebar img {
+	display: block;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+}
+#sidebar a {
+	text-decoration: none;
+	color: #C51417;
+}
+
+#footer {
+	background: #333333;
+	clear: both;
+	padding: 10px;
+}
+#footer p {
+	color: #FFFFFF;
+	text-align: center;
+	vertical-align: bottom;
+	margin: 0;
+}
+	
